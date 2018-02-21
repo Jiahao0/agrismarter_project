@@ -1,5 +1,6 @@
 # agrismarter_project
-## how to combine two repositories:## https://www.smashingmagazine.com/2014/05/moving-git-repository-new-server/  
+## how to combine two repositories:
+https://www.smashingmagazine.com/2014/05/moving-git-repository-new-server/  
   git fetch origin  
   git branch -a  
   git checkout -b develop origin/develop  
